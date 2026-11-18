@@ -1,0 +1,23 @@
+## Card Testing
+Fraudsters make many small low-value purchases in quick succession, often at online merchants, to check whether a stolen card number is valid. 
+Ten or more charges under 5 dollars within 15 minutes is a strong indicator. Recommended action: temporarily block online transactions and contact the customer.
+
+## Impossible Travel
+Two transactions in locations too far apart to travel between in the elapsed time suggest the card or its data was copied.
+ Example: a purchase in India followed by a purchase in the UAE within two hours. Recommended action: decline the second transaction and verify with the customer.
+
+## High-Risk Merchant Categories
+Certain categories such as digital gift cards, cryptocurrency exchanges, and wire transfer services are frequently used to cash out stolen cards.
+ A first-time large purchase in these categories needs extra review. Recommended action: step-up authentication before approval.
+
+## Account Takeover
+Signs include a sudden change of email or phone number, a new device login, followed shortly by a password reset and high-value transactions. 
+Recommended action: lock the account, require identity re-verification, and escalate to the account security team.
+
+## Card-Not-Present Fraud
+Online purchases where the physical card is not used are the most common fraud type. Risk rises with mismatched billing and shipping addresses, new customer accounts at the merchant, and unusual order sizes.
+ Recommended action: request additional verification such as one-time passcodes.
+
+## Escalation Policy
+Any case with a risk score above 80, or total exposure above 5000 dollars, must be escalated to a senior analyst.
+ The Copilot only recommends actions. A human analyst makes the final decision to block a card or contact a customer.
